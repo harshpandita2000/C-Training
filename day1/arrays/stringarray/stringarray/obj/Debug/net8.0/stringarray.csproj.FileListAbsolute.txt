@@ -1,0 +1,14 @@
+C:\Courses\C# course udemy\stringarray\stringarray\bin\Debug\net8.0\stringarray.exe
+C:\Courses\C# course udemy\stringarray\stringarray\bin\Debug\net8.0\stringarray.deps.json
+C:\Courses\C# course udemy\stringarray\stringarray\bin\Debug\net8.0\stringarray.runtimeconfig.json
+C:\Courses\C# course udemy\stringarray\stringarray\bin\Debug\net8.0\stringarray.dll
+C:\Courses\C# course udemy\stringarray\stringarray\bin\Debug\net8.0\stringarray.pdb
+C:\Courses\C# course udemy\stringarray\stringarray\obj\Debug\net8.0\stringarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\C# course udemy\stringarray\stringarray\obj\Debug\net8.0\stringarray.AssemblyInfoInputs.cache
+C:\Courses\C# course udemy\stringarray\stringarray\obj\Debug\net8.0\stringarray.AssemblyInfo.cs
+C:\Courses\C# course udemy\stringarray\stringarray\obj\Debug\net8.0\stringarray.csproj.CoreCompileInputs.cache
+C:\Courses\C# course udemy\stringarray\stringarray\obj\Debug\net8.0\stringarray.dll
+C:\Courses\C# course udemy\stringarray\stringarray\obj\Debug\net8.0\refint\stringarray.dll
+C:\Courses\C# course udemy\stringarray\stringarray\obj\Debug\net8.0\stringarray.pdb
+C:\Courses\C# course udemy\stringarray\stringarray\obj\Debug\net8.0\stringarray.genruntimeconfig.cache
+C:\Courses\C# course udemy\stringarray\stringarray\obj\Debug\net8.0\ref\stringarray.dll

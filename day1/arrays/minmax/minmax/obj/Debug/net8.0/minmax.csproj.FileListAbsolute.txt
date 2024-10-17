@@ -1,0 +1,14 @@
+C:\Courses\C# course udemy\minmax\minmax\bin\Debug\net8.0\minmax.exe
+C:\Courses\C# course udemy\minmax\minmax\bin\Debug\net8.0\minmax.deps.json
+C:\Courses\C# course udemy\minmax\minmax\bin\Debug\net8.0\minmax.runtimeconfig.json
+C:\Courses\C# course udemy\minmax\minmax\bin\Debug\net8.0\minmax.dll
+C:\Courses\C# course udemy\minmax\minmax\bin\Debug\net8.0\minmax.pdb
+C:\Courses\C# course udemy\minmax\minmax\obj\Debug\net8.0\minmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\C# course udemy\minmax\minmax\obj\Debug\net8.0\minmax.AssemblyInfoInputs.cache
+C:\Courses\C# course udemy\minmax\minmax\obj\Debug\net8.0\minmax.AssemblyInfo.cs
+C:\Courses\C# course udemy\minmax\minmax\obj\Debug\net8.0\minmax.csproj.CoreCompileInputs.cache
+C:\Courses\C# course udemy\minmax\minmax\obj\Debug\net8.0\minmax.dll
+C:\Courses\C# course udemy\minmax\minmax\obj\Debug\net8.0\refint\minmax.dll
+C:\Courses\C# course udemy\minmax\minmax\obj\Debug\net8.0\minmax.pdb
+C:\Courses\C# course udemy\minmax\minmax\obj\Debug\net8.0\minmax.genruntimeconfig.cache
+C:\Courses\C# course udemy\minmax\minmax\obj\Debug\net8.0\ref\minmax.dll

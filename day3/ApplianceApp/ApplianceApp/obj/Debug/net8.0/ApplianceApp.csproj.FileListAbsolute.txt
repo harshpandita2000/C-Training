@@ -1,0 +1,14 @@
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\bin\Debug\net8.0\ApplianceApp.exe
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\bin\Debug\net8.0\ApplianceApp.deps.json
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\bin\Debug\net8.0\ApplianceApp.runtimeconfig.json
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\bin\Debug\net8.0\ApplianceApp.dll
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\bin\Debug\net8.0\ApplianceApp.pdb
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\obj\Debug\net8.0\ApplianceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\obj\Debug\net8.0\ApplianceApp.AssemblyInfoInputs.cache
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\obj\Debug\net8.0\ApplianceApp.AssemblyInfo.cs
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\obj\Debug\net8.0\ApplianceApp.csproj.CoreCompileInputs.cache
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\obj\Debug\net8.0\ApplianceApp.dll
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\obj\Debug\net8.0\refint\ApplianceApp.dll
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\obj\Debug\net8.0\ApplianceApp.pdb
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\obj\Debug\net8.0\ApplianceApp.genruntimeconfig.cache
+C:\Courses\C# course udemy\day3\ApplianceApp\ApplianceApp\obj\Debug\net8.0\ref\ApplianceApp.dll

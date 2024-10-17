@@ -1,0 +1,14 @@
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\bin\Debug\net8.0\InheritanceFive.exe
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\bin\Debug\net8.0\InheritanceFive.deps.json
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\bin\Debug\net8.0\InheritanceFive.runtimeconfig.json
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\bin\Debug\net8.0\InheritanceFive.dll
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\bin\Debug\net8.0\InheritanceFive.pdb
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\obj\Debug\net8.0\InheritanceFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\obj\Debug\net8.0\InheritanceFive.AssemblyInfoInputs.cache
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\obj\Debug\net8.0\InheritanceFive.AssemblyInfo.cs
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\obj\Debug\net8.0\InheritanceFive.csproj.CoreCompileInputs.cache
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\obj\Debug\net8.0\InheritanceFive.dll
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\obj\Debug\net8.0\refint\InheritanceFive.dll
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\obj\Debug\net8.0\InheritanceFive.pdb
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\obj\Debug\net8.0\InheritanceFive.genruntimeconfig.cache
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFive\InheritanceFive\obj\Debug\net8.0\ref\InheritanceFive.dll

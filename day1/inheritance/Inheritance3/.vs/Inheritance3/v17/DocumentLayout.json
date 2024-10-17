@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Courses\\C# course udemy\\day1\\inheritance\\Inheritance3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE96BE5B-863D-45E0-BD3D-A0D0B8E1EAA9}|Inheritance3\\Inheritance3.csproj|c:\\courses\\c# course udemy\\day1\\inheritance\\inheritance3\\inheritance3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE96BE5B-863D-45E0-BD3D-A0D0B8E1EAA9}|Inheritance3\\Inheritance3.csproj|solutionrelative:inheritance3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Courses\\C# course udemy\\day1\\inheritance\\Inheritance3\\Inheritance3\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance3\\Program.cs",
+              "ToolTip": "C:\\Courses\\C# course udemy\\day1\\inheritance\\Inheritance3\\Inheritance3\\Program.cs",
+              "RelativeToolTip": "Inheritance3\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:49:06.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Courses\C# course udemy\reversearr\reversearr\obj\Debug\net8.0\reversearr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\C# course udemy\reversearr\reversearr\obj\Debug\net8.0\reversearr.AssemblyInfoInputs.cache
+C:\Courses\C# course udemy\reversearr\reversearr\obj\Debug\net8.0\reversearr.AssemblyInfo.cs
+C:\Courses\C# course udemy\reversearr\reversearr\obj\Debug\net8.0\reversearr.csproj.CoreCompileInputs.cache
+C:\Courses\C# course udemy\reversearr\reversearr\bin\Debug\net8.0\reversearr.exe
+C:\Courses\C# course udemy\reversearr\reversearr\bin\Debug\net8.0\reversearr.deps.json
+C:\Courses\C# course udemy\reversearr\reversearr\bin\Debug\net8.0\reversearr.runtimeconfig.json
+C:\Courses\C# course udemy\reversearr\reversearr\bin\Debug\net8.0\reversearr.dll
+C:\Courses\C# course udemy\reversearr\reversearr\bin\Debug\net8.0\reversearr.pdb
+C:\Courses\C# course udemy\reversearr\reversearr\obj\Debug\net8.0\reversearr.dll
+C:\Courses\C# course udemy\reversearr\reversearr\obj\Debug\net8.0\refint\reversearr.dll
+C:\Courses\C# course udemy\reversearr\reversearr\obj\Debug\net8.0\reversearr.pdb
+C:\Courses\C# course udemy\reversearr\reversearr\obj\Debug\net8.0\reversearr.genruntimeconfig.cache
+C:\Courses\C# course udemy\reversearr\reversearr\obj\Debug\net8.0\ref\reversearr.dll

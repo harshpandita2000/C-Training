@@ -1,0 +1,14 @@
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\bin\Debug\net8.0\InheritanceOne.exe
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\bin\Debug\net8.0\InheritanceOne.deps.json
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\bin\Debug\net8.0\InheritanceOne.runtimeconfig.json
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\bin\Debug\net8.0\InheritanceOne.dll
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\bin\Debug\net8.0\InheritanceOne.pdb
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\obj\Debug\net8.0\InheritanceOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\obj\Debug\net8.0\InheritanceOne.AssemblyInfoInputs.cache
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\obj\Debug\net8.0\InheritanceOne.AssemblyInfo.cs
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\obj\Debug\net8.0\InheritanceOne.csproj.CoreCompileInputs.cache
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\obj\Debug\net8.0\InheritanceOne.dll
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\obj\Debug\net8.0\refint\InheritanceOne.dll
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\obj\Debug\net8.0\InheritanceOne.pdb
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\obj\Debug\net8.0\InheritanceOne.genruntimeconfig.cache
+C:\Courses\C# course udemy\day1\inheritance\InheritanceOne\InheritanceOne\obj\Debug\net8.0\ref\InheritanceOne.dll

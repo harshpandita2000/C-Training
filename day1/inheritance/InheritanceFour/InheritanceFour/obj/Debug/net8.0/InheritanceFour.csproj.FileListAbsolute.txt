@@ -1,0 +1,14 @@
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\bin\Debug\net8.0\InheritanceFour.exe
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\bin\Debug\net8.0\InheritanceFour.deps.json
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\bin\Debug\net8.0\InheritanceFour.runtimeconfig.json
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\bin\Debug\net8.0\InheritanceFour.dll
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\bin\Debug\net8.0\InheritanceFour.pdb
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\obj\Debug\net8.0\InheritanceFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\obj\Debug\net8.0\InheritanceFour.AssemblyInfoInputs.cache
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\obj\Debug\net8.0\InheritanceFour.AssemblyInfo.cs
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\obj\Debug\net8.0\InheritanceFour.csproj.CoreCompileInputs.cache
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\obj\Debug\net8.0\InheritanceFour.dll
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\obj\Debug\net8.0\refint\InheritanceFour.dll
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\obj\Debug\net8.0\InheritanceFour.pdb
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\obj\Debug\net8.0\InheritanceFour.genruntimeconfig.cache
+C:\Courses\C# course udemy\day1\inheritance\InheritanceFour\InheritanceFour\obj\Debug\net8.0\ref\InheritanceFour.dll
